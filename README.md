@@ -12,3 +12,7 @@ Konfiguracja wirtualnej maszyny:
 sudo apt install tpm2-tools
 ```
 - Happy hacking :)
+
+## Slides
+
+[Sekrety (nie)bezpieczeństwa TPM \[PL\]](https://github.com/LeftarCode/sekurak-academy-tpm/blob/main/MaLe_TPM_slides.pdf)
