@@ -4,7 +4,11 @@
 ## Konfiguracja środowiska
 A tej sekcji znajduje się krótka opisowa instrukcja w jaki sposób należy skonfigurować sobie środowisko, aby móc przetestować napisane exploity. W trakcie szkolenie używaliśmy VirtualBox, ale jeżeli preferujesz alternatywne rozwiązanie to nic nie stoi na przeszkodzie.
 
-System operacyjny:
+Konfiguracja wirtualnej maszyny:
 - Najlepiej Ubuntu 22.04+,
 - Ustawienia VM > System > TPM > 2.0,
+- Zainstaluj `tpm2-tools`:
+```bash
+sudo apt install tpm2-tools
+```
 - Happy hacking :)
